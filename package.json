@@ -1,0 +1,22 @@
+{
+  "name": "make-lint",
+  "version": "1.0.0",
+  "repository": "segmentio/make-lint",
+  "description": "eslint make target",
+  "keywords": [
+    "make",
+    "lint",
+    "makefile",
+    "eslint",
+    "linting"
+  ],
+  "dependencies": {
+    "eslint": "^0.5.1"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "license": "MIT",
+  "main": "config.json"
+}
