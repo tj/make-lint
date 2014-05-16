@@ -3,6 +3,8 @@
 
   ESLint `lint` target for Make with sane defaults.
 
+  ![](http://indul.ccio.co/YE/Z8/U6/285767538825924428N2LbBDGkc.jpg)
+
 ## Installation
 
 ```
