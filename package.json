@@ -1,7 +1,7 @@
 {
   "name": "make-lint",
   "version": "1.0.1",
-  "repository": "segmentio/make-lint",
+  "repository": "visionmedia/make-lint",
   "description": "eslint make target",
   "keywords": [
     "make",
