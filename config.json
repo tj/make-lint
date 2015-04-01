@@ -27,6 +27,11 @@
     "new-cap": 2,
     "no-spaced-func": 2,
     "no-space-before-semi": 2,
-    "space-unary-word-ops": 2
+    "space-unary-ops": 2
+  },
+  "ecmaFeatures": {
+    "blockBindings": true,
+    "generators": true,
+    "modules": true
   }
 }
