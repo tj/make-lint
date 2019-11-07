@@ -11,7 +11,7 @@
     "linting"
   ],
   "dependencies": {
-    "eslint": "^0.5.1"
+    "eslint": "^6.6.0"
   },
   "devDependencies": {
     "mocha": "*",
